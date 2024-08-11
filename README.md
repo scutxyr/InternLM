@@ -1,5 +1,10 @@
 # 歌王ILM —— 基于InternLM-7b的歌词创作大模型
-歌王ILM是一个集成了多种语言说唱歌词的大语言模型。该模型使用截止至2023年的音乐平台说唱歌曲歌词作为数据集，基于 InternLM2-Math-7B 模型，通过 xtuner 微调，实现根据不同需求创造歌词的功能。  
+歌王ILM是一个集成了多种语言说唱歌词的大语言模型。该模型使用截止至2023年的音乐平台说唱歌曲歌词作为数据集，基于 InternLM2-Math-7B 模型，通过 xtuner 微调，实现根据不同需求创造歌词的功能。 
+
+- 第一期由于时间原因没有实现更多功能，目前打算第三期继续优化项目
+
+也欢迎大家一起参与 [大模型实战营](https://github.com/InternLM/Tutorial).
+
 <div align=center>
 <img src=https://github.com/scutxyr/ILMSinger/blob/main/pic/title1.jpg width=280 height=180 />
 </div>
